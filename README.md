@@ -8,11 +8,19 @@ It was necessary to follow the existing format of the spreadsheet, so the data i
 
 ### Dependencies
 
+##### XLSX
+
 To manipulate the spreadsheet and populate it with data, the XLSX library was used.
 
 Link to the library on NPM: [XLSX](https://www.npmjs.com/package/xlsx).
 
 This project was developed in JavaScript and requires Node.js to run.
+
+##### Puppeteer
+
+To perform the data collection, I used the Puppeteer lib to navigate to the url and collect the information.
+
+Link to the library on NPM: [Puppeteer](https://www.npmjs.com/package/puppeteer).
 
 ### Instructions to run project
 
